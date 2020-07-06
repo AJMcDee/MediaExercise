@@ -1,7 +1,9 @@
 # MediaExercise
+
 This is an exercise to practice working with media files.
 
 **Try to follow these steps:**
+
 1. Clone this repository
 2. Add the media files to the index.html file
 3. Ensure you include controls
@@ -10,6 +12,7 @@ This is an exercise to practice working with media files.
 6. Mute the video
 
 **Optional extras**
+
 1. Use grid to lay the items out nicely
-2. Place all media items into divs and style those divs identically
-3. Give 
+2. Place all media items into divs and style those divs identically using class
+3. Make it look like an actual website!
